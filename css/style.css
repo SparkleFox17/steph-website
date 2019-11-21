@@ -35,7 +35,7 @@ body {
   
   /* On mouse-over */
   .sidenav a:hover, .dropdown-btn:hover {
-    color: #9A6CF5;
+    color: #000000;  /* changes words to black*/
   }
   
   /* Main content */
@@ -47,7 +47,7 @@ body {
   
   /* Add an active class to the active dropdown button */
   .active {
-    background-color: #9A6CF5;
+    background-color: #000000; /* black inbeteen sections */
     color: white;
   }
   
